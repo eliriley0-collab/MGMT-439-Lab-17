@@ -1,0 +1,8 @@
+Downloaded / verified: 2026-10-29
+PASS BAA: {'Last measured date known then': Timestamp('2026-09-01 00:00:00'), 'Value known then': np.float64(6.47), 'Last measured date today': Timestamp('2026-09-01 00:00:00'), 'Value today': np.float64(6.47), 'Later observations today': 0, 'Revised shared observations': 0}
+PASS FEDFUNDS: {'Last measured date known then': Timestamp('2026-09-01 00:00:00'), 'Value known then': np.float64(3.75), 'Last measured date today': Timestamp('2026-09-01 00:00:00'), 'Value today': np.float64(3.75), 'Later observations today': 0, 'Revised shared observations': 0}
+PASS DGS10: {'Last measured date known then': Timestamp('2026-10-02 00:00:00'), 'Value known then': np.float64(5.28), 'Last measured date today': Timestamp('2026-10-27 00:00:00'), 'Value today': np.float64(4.99), 'Later observations today': 16, 'Revised shared observations': 0}
+PASS MORTGAGE30US: {'Last measured date known then': Timestamp('2026-10-01 00:00:00'), 'Value known then': np.float64(7.28), 'Last measured date today': Timestamp('2026-10-29 00:00:00'), 'Value today': np.float64(7.24), 'Later observations today': 4, 'Revised shared observations': 0}
+PASS PAYEMS December 2024 then=159536, today=158316; {'Last measured date known then': Timestamp('2024-12-01 00:00:00'), 'Value known then': np.int64(159536), 'Last measured date today': Timestamp('2026-09-01 00:00:00'), 'Value today': np.int64(159044), 'Later observations today': 21, 'Revised shared observations': 381}
+PASS Streamlit render: exceptions=[], errors=[], tables=5
+Overall: PASS
